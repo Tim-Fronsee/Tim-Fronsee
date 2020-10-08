@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working with Unreal Engine 4
 
-:video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game::video_game:
-
-<a href="https://psnprofiles.com/Pangia"><img src="https://card.psnprofiles.com/1/Pangia.png" border="0"></a>
