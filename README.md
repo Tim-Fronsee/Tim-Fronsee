@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working with Unreal Engine 4 / 5
+- 🌱 I’m currently learning Godot
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tim-Fronsee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
